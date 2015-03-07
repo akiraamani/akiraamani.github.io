@@ -31,3 +31,14 @@ li{
   display: inline-block;
   width: 20%;
 }
+
+.btn.btn-default {
+  display: inline-block;
+  width: 20%;
+}
+
+.nav.navbar-nav {
+  display: inline-block;
+  width: 50%;
+
+}
